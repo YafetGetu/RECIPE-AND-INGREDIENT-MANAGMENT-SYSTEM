@@ -26,6 +26,23 @@ To access the manager panel, use the following default login credentials:
 - **Username**: yafet  
 - **Password**: yaf123
 
+## 🛠️ Sample Data
+
+### 🇪🇹 Example Recipes Used
+- **Doro Wat** – Spicy chicken stew with boiled eggs
+- **Injera** – Teff-based sour flatbread
+- **Shiro** – Chickpea flour stew
+- **Tibs** – Sauteed meat with spices
+- **Kitfo** – Minced raw beef seasoned with spices
+
+Each recipe record includes:
+- Description
+- Allergy info (e.g., contains eggs or nuts)
+- Nutrient info (e.g., high protein, gluten-free)
+
+> These examples help demonstrate how the system works with real-world Ethiopian meals.
+
+
 ## 🛠️ Built With
 - **Java (Swing)** – for the GUI
 - **MySQL** – as the backend database
