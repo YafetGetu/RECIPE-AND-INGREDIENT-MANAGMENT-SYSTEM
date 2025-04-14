@@ -1,7 +1,5 @@
 # 🍲 Recipe and Ingredient Management System (Java + Swing + MySQL)
 
-![image alt](https://github.com/YafetGetu/RECIPE-AND-INGREDIENT-MANAGMENT-SYSTEM/blob/c874958ac96b76bdf936b7d3fdaa7c60305b9f3a/screenshot/loginpage.png)
-
 A Java Swing desktop application to manage recipes and ingredients, designed for both **customers** and **managers** with dedicated interfaces.
 
 ## 🔧 Features
@@ -22,6 +20,8 @@ A Java Swing desktop application to manage recipes and ingredients, designed for
 - Generate filtered reports
 
 ## 🔐 Manager Login Credentials
+
+![image alt](https://github.com/YafetGetu/RECIPE-AND-INGREDIENT-MANAGMENT-SYSTEM/blob/c874958ac96b76bdf936b7d3fdaa7c60305b9f3a/screenshot/loginpage.png)
 
 To access the manager panel, use the following default login credentials:
 
@@ -57,3 +57,5 @@ Each recipe record includes:
 - MySQL Server
 - MySQL Workbench (optional, for DB management)
 - Java IDE (e.g., IntelliJ, Eclipse , Visual Studio Code)
+
+[image alt](https://github.com/YafetGetu/RECIPE-AND-INGREDIENT-MANAGMENT-SYSTEM/blob/70f10920276b3305755b615a594369de0c3bf471/screenshot/CRED_RECIPE.png)
