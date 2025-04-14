@@ -30,6 +30,8 @@ To access the manager panel, use the following default login credentials:
 
 ## 🛠️ Sample Data
 
+![image alt](https://github.com/YafetGetu/RECIPE-AND-INGREDIENT-MANAGMENT-SYSTEM/blob/70f10920276b3305755b615a594369de0c3bf471/screenshot/CRED_RECIPE.png)
+
 ### 🇪🇹 Example Recipes Used
 - **Doro Wat** – Spicy chicken stew with boiled eggs
 - **Injera** – Teff-based sour flatbread
@@ -58,4 +60,3 @@ Each recipe record includes:
 - MySQL Workbench (optional, for DB management)
 - Java IDE (e.g., IntelliJ, Eclipse , Visual Studio Code)
 
-![image alt](https://github.com/YafetGetu/RECIPE-AND-INGREDIENT-MANAGMENT-SYSTEM/blob/70f10920276b3305755b615a594369de0c3bf471/screenshot/CRED_RECIPE.png)
