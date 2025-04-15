@@ -33,7 +33,7 @@ To access the manager panel, use the following default login credentials:
 ![image alt](https://github.com/YafetGetu/RECIPE-AND-INGREDIENT-MANAGMENT-SYSTEM/blob/70f10920276b3305755b615a594369de0c3bf471/screenshot/CRED_RECIPE.png)
 
 ### 🇪🇹 Example Recipes Used
-- **Doro Wat** – Spicy chicken stew with boiled eggs
+- **Doro Wot** – Spicy chicken stew with boiled eggs
 - **Injera** – Teff-based sour flatbread
 - **Shiro** – Chickpea flour stew
 - **Tibs** – Sauteed meat with spices
